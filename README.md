@@ -1,0 +1,2 @@
+# myjava
+Java exercises
